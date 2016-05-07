@@ -1,7 +1,7 @@
 import Ember from 'ember';
-import LineItem from '../models/line-item';
-import Order from '../models/order';
-import Product from '../models/product';
+import LineItem from 'codeschool/models/line-item';
+import Order from 'codeschool/models/order';
+import Product from 'codeschool/models/product';
 
 
 export default Ember.Service.extend({
